@@ -13,3 +13,9 @@ log/
 
 # System files
 .DS_Store
+
+# SSH keys (security)
+id_rsa*
+id_ed25519*
+*.pem
+*.key
