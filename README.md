@@ -93,7 +93,7 @@ source install/setup.bash
 
 Run node:
 
-ros2 run <your_package_name> task2_pid.py
+ros2 run coppelia task2_pid.py
 
 Send mission goal:
 
